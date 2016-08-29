@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Tester/Gailbert-Tester.unity
+  isLoaded: 1
+  isActive: 1
